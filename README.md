@@ -8,7 +8,7 @@ This project is a comparison between different implementations of CPF (Cadastro 
 * C++ (Compiler such as g++, clang++)
 * Docker (Optional)
   
-  ## How to Run the Project
+## How to Run the Project
 
  #### Rust
   
